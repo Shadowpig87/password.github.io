@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#button{
+    height: 100px;
+    width: 1900px;
+    border: solid blue;
+    background-color: black;
+    border-radius: 20px;
+  color:blue;
+  font-family: monospace;
+  font-size: 2em;
+}
+#button:hover{
+    background-color: blue;
+    border: black;
+    color: black;
+    }
+#p1{font-family: monospace;
+font-size: 40px;
+color: blue;}
+.button1{
+    border: solid blue;
+    background-color: black;
+    border-radius: 20px;
+  color:blue;
+  font-family: monospace;
+  font-size: 1.5em;
+}
+.button1:hover{
+    background-color: blue;
+    color: black;
+}
+#passwordLength{
+    background-color: black;
+    border: solid blue;
+    font-size: 1.4em;
+    font-family: monospace;
+    color: blue;
+    border-radius: 5px;
+}
